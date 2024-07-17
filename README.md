@@ -21,3 +21,5 @@
 то ви можете його видалити з списка.
 
 ![SharedScreenshot2](https://github.com/user-attachments/assets/2dd800e6-2dda-4e08-a8f1-7cb1676bb06b)
+
+
